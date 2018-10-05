@@ -23,7 +23,7 @@ for add_LL in zip_codes:
     print(url)
     print(latitudes)
 ```
-
+![Image of Clusters](https://static1.squarespace.com/static/5a273c2db7411c04ea67f2e5/t/5b6ded7aaa4a997d01a78224/1533930884023/download+%281%29.png?format=2500w)
 
 ## Methodology
 
@@ -61,6 +61,7 @@ Output:
 t = 2.19200477138
 p = 0.031019029026
 ```
+![Image of Distribution](https://static1.squarespace.com/static/5a273c2db7411c04ea67f2e5/t/5b6deda3cd83661ba3d587bb/1533930920814/?format=750w)
 
 ## Results
 
