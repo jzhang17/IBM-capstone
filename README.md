@@ -74,4 +74,4 @@ With higher income and commercial functions of the neighborhoods in cluster 0. T
 
 Gentrification is one of the most significant social phenomenon in the city of Philadelphia because it directly affects city development and wealth distribution, and the issue sometimes even implicates racial integration in the modern society. With the help of modern computing technology and publicly available data, we can get insight from the phenomenon to discover the correlation between wealth distribution and neighborhoods’ functions. With this correlation we can get business insights city development. 
 
-## Cluster Visualization[http://htmlpreview.github.io/?https://github.com/jzhang17/IBM-capstone/blob/master/cluster.html]
+## (Cluster Visualization)[http://htmlpreview.github.io/?https://github.com/jzhang17/IBM-capstone/blob/master/cluster.html]
